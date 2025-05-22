@@ -8,6 +8,6 @@ public class ApiDataSecurityApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ApiDataSecurityApplication.class, args);
-		System.out.println("Teste");
+		System.out.println("inicio");
 	}
 }
