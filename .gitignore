@@ -31,3 +31,24 @@ build/
 
 ### VS Code ###
 .vscode/
+# Arquivos do IntelliJ
+/.idea/
+*.iml
+*.iws
+
+# Diretórios de build
+/target/
+/bin/
+/build/
+
+# Arquivos do Maven
+log/
+*.log
+
+# Arquivos de configuração local
+*.properties
+*.yml
+
+# Outros
+.DS_Store
+*.class
